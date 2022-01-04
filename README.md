@@ -17,9 +17,12 @@
 
 **Findings:**
 - (Gender related) Male participants of the survey has more considerable income. If mainly compare the salary levels of man and woman, the median salary of man is evidently higher than the median salary of woman. Also, the upper whisker of man’s salary has wider range and higher salary than the one of woman’s.
+
 ![alt text](https://github.com/elenayinyin/KaggleSurvey-Income-Education/blob/main/Compensation_between_Man_Woman.png)
 
 - (Education related) Explore the relation between amount of money spent on machine learning and/or cloud computing services (Q25) and different education levels. The master’s degree turns out highly willing to spend any money on computing services, even more likely to pay than doctoral degree.
+
+![alt text](https://github.com/elenayinyin/KaggleSurvey-Income-Education/blob/main/Money_Spent.png)
 
 - (Gender related) After bootstrapping 1000 replications of data for each gender, take the two-sample t-test for woman’s and man’s salary. The p-value indicates that mean salary of man is different from mean salary of woman.
 
